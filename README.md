@@ -1,7 +1,11 @@
 ## Hi, I'm Hà 👋
 
-👩🏻‍💻 QA/Data Analyst sharing about my journey and learnings in tech based in Canada <br/> 
-👩🏻‍🎓 Studied Master in Data Scence at the Liverpool John Moores University, UK
+👩🏻‍💻 Quality Assurance/Data Analyst sharing about my journey and learnings in tech based in Canada <br/> 
+👩🏻‍🎓  I recently earned my master's degree in Data Science at the Liverpool John Moores University, UK where I developed a strong foundation in data analysis, data modelling, problem-solving, and data-driven decision-making.
+
+My ambition is to help organizations make data-driven decisions by uncovering actionable insights through my analytical and problem-solving skills.
+
+
 
 
 # 💻 Tech Stack:
